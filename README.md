@@ -1,0 +1,4 @@
+- [`[XeLaTeX HU]`](thesis-xelatex-hu.pdf) | [`[PDFLaTeX HU]`](thesis-pdflatex-hu.pdf) | [`[LuaLaTeX HU]`](thesis-lualatex-hu.pdf)
+- [`[XeLaTeX EN]`](thesis-xelatex-en.pdf) | [`[PDFLaTeX EN]`](thesis-pdflatex-en.pdf) | [`[LuaLaTeX EN]`](thesis-lualatex-en.pdf)
+- [`[XeLaTeX Duplex]`](thesis-xelatex-duplex.pdf) | [`[PDFLaTeX Duplex]`](thesis-pdflatex-duplex.pdf) | [`[LuaLaTeX Duplex]`](thesis-lualatex-duplex.pdf)
+- Commit: [f23fed679e6a0aeffec01b54b353590f7e88a153](https://github.com/szkupienpeti/thesis-template-latex/commit/f23fed679e6a0aeffec01b54b353590f7e88a153)
